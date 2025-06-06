@@ -24,9 +24,9 @@ venue:
   latest: "https://voyed.github.io/Draft-test-davoyer/draft-voyer-srv6ops-test.html"
 
 author:
-  - fullname: Your Name Here
-    organization: Your Organization Here
-    email: "robert.public@wilton.org.uk"
+  - fullname: Dan Voyer
+    organization: Personal
+    email: "danvoyer@gmail.com"
 
 normative:
 
