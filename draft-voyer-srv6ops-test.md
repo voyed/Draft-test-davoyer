@@ -29,8 +29,8 @@ number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: Operations and Management
+workgroup: SRv6 Operations
 keyword:
   - next generation
   - unicorn
