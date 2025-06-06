@@ -2,8 +2,8 @@
 
 
 
-SRv6 Operations                                               Y. N. Here
-Internet-Draft                                    Your Organization Here
+SRv6 Operations                                                 D. Voyer
+Internet-Draft                                                  Personal
 Intended status: Informational                               6 June 2025
 Expires: 8 December 2025
 
@@ -119,6 +119,6 @@ Acknowledgments
 
 Author's Address
 
-   Your Name Here
-   Your Organization Here
-   Email: robert.public@wilton.org.uk
+   Dan Voyer
+   Personal
+   Email: danvoyer@gmail.com
